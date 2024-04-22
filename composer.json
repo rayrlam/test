@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-0": {
+            "Calculator": "app"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
